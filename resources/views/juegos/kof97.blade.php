@@ -95,7 +95,7 @@
        </tr>
        <tr>
        <th><img src="../../images/command-list/hyper-armor.png" alt="Hyper armor"></th>
-       <td>El movimiento posee propiedades defensivas, ignorando cualquier daño o efecto del golpe. Normalmente es capaz de absorber un único ataque.</td>
+       <td>El movimiento posee propiedades defensivas, ignorando cualquier daño o efecto del golpe.Normalmente es capaz de absorber un único ataque.</td>
        </tr>          
        <tr>
        <th><img src="../../images/command-list/imparable.png" alt="Ataque imparable"></th>
